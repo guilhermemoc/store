@@ -41,7 +41,7 @@
 				<li><a href="#">Femininas</a></li>
 				<li><a href="#">Kids</a></li>
 				<li><a href="#">Peça sua estampa</a></li>
-				<li class="right"><i class="fa fa-user" aria-hidden="true"></i> &nbsp; Entrar</li>
+				<a href="login.php"><li class="right"><i class="fa fa-user" aria-hidden="true"></i> &nbsp; Entrar</a></li>
 				<li class="right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> &nbsp; Meu Carrinho</li>
 			</ul>
 		</nav>
@@ -53,7 +53,7 @@
 				<li><a href="#">Femininas</a></li>
 				<li><a href="#">Kids</a></li>
 				<li><a href="#">Peça sua estampa</a></li>
-				<li><i class="fa fa-user" aria-hidden="true"></i> &nbsp; Entrar</li>
+			<a href="login.php"><li><i class="fa fa-user" aria-hidden="true"></i> &nbsp; Entrar</li></a>
 				<li><i class="fa fa-shopping-cart" aria-hidden="true"></i> &nbsp; Meu Carrinho</li>
 			</ul>
 		</div>
